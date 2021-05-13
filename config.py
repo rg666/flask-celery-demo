@@ -6,5 +6,5 @@ CELERY_RESULT_BACKEND = 'redis://localhost:6379/0'
 MAIL_SERVER = 'smtp.googlemail.com'
 MAIL_PORT = 587
 MAIL_USE_TLS = True
-MAIL_USERNAME = 'email-username'
-MAIL_PASSWORD = 'email-password'
+MAIL_USERNAME = 'randeep.mailbox'
+MAIL_PASSWORD = 'password'
